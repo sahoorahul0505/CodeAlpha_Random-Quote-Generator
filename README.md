@@ -59,5 +59,7 @@ To run the project successfully, add the endpoint URL (`https://zenquotes.io/api
 2. Add the missing API endpoint in your data layer
 3. Build & Run
 
+## Want to Clone 👉👉👉Copy the URL
+
 ```bash
-git clone https://github.com/your-username/random-quote-generator.git
+https://github.com/sahoorahul0505/CodeAlpha_Random-Quote-Generator.git
