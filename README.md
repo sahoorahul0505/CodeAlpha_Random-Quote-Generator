@@ -50,7 +50,7 @@ To run the project successfully, add the endpoint URL (`https://zenquotes.io/api
 <hr/>
 
 <p align="center">
-  Made with ❤️ by <b>KodeBug</b> — It's mine 😎
+  Made with ❤️ by <b>KodeBug</b> 
 </p>
 
 ## 🚀 Getting Started
